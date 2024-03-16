@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "test-rbd-callback",
+  "displayName": "Rix_pixel",
   "description": "",
   "containerContexts": [
     "WEB"

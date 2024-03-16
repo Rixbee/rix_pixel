@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://www.rixengine.com"
+documentation: "https://crs.rixbeedesk.com/help/tracking"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 2cbe256cf01317d7274f976ff5b98472677123b2
     changeNotes: Initial Version
